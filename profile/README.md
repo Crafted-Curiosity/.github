@@ -31,7 +31,7 @@ We welcome the community to get involved in our projects! Here’s how you can c
 Your contributions can help us grow and improve!
 
 ## 👩‍💻 Useful Resources
-- For documentation, tutorials, and additional resources, please check our [GitHub Wiki](https://github.com/Crafted-Curiosity/wiki).
+- For documentation, tutorials, and additional resources, please check our [GitHub Wiki](https://github.com/Crafted-Curiosity/.github/wiki).
 - You can also explore our YouTube channel for video tutorials and insights: [Crafted Curiosity](https://www.youtube.com/@CraftedCuriosity-b3q).
 
 ## Channel Details
