@@ -45,6 +45,8 @@ For inquiries, please email us at [contact@craftedcuriosity.com](mailto:contact@
 -->
 
 Feel free to reach out if you have any questions or suggestions!
+Visit Us at: [Dev : Crafted Curiosity](https://dev.craftedcuriosity.org)
+Visit our other services and pages from [Crafted Curiosity](https://www.craftedcuriosity.org)
 
 ## 🍿 Fun Facts
 Did you know our team loves starting the day with a hearty breakfast? Some favorites include oatmeal with fruits, smoothies, and avocado toast—fueling us for a day full of creativity and exploration!
