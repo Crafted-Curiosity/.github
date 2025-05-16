@@ -45,14 +45,14 @@ For inquiries, please email us at [contact@craftedcuriosity.com](mailto:contact@
 -->
 
 Feel free to reach out if you have any questions or suggestions!
-- Visit Us at: [Dev : Crafted Curiosity](http://dev.craftedcuriosity.org)
+- For Project and Collaboration
+  Visit Us at: [Dev : Crafted Curiosity](http://dev.craftedcuriosity.org)
+- For Educational Content
+  Visit Us at: [Edu : Crafted Curiosity](http://edu.craftedcuriosity.org)
 - Visit our other services and pages from [Crafted Curiosity](http://www.craftedcuriosity.org)
 
 ## 🍿 Fun Facts
 Did you know our team loves starting the day with a hearty breakfast? Some favorites include oatmeal with fruits, smoothies, and avocado toast—fueling us for a day full of creativity and exploration!
-
-## 🧙 Markdown Power
-Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)! Feel free to get creative with your contributions!
 
 Thank you for visiting our organization profile!
 
